@@ -1,0 +1,59 @@
+div#header {
+  color: white;
+  background-color: black;
+}
+
+div#header > div{
+  display: block;
+}
+
+#header .right{
+  text-align: right;
+}
+
+#top1{
+  /*background-image: url('hk112.jpg');*/
+  /*background: url('/images/hk112.jpg') no-repeat center center fixed;*/
+  background-color: black;
+  background-size: cover;
+  width: 100%;
+  min-height: 100vh;
+  display: block;
+}
+
+#top1 > div {
+  color: white;
+  padding: 30px 0;
+}
+
+#top1 img{
+  margin: auto;
+  padding: 30px 0;
+
+}
+
+#top1 input{
+  display: block;
+  margin: auto;
+  width: 300px;
+  text-align: center;
+  color: black;
+  padding: 10px 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+#top1 button{
+  display: block;
+  margin: auto;
+  width: 300px;
+  padding: 10px 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+#top1 div{
+  display: block;
+}
